@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kishore
-- 👀 I’m a Automobile Engineering Student
-- 🌱 I’m currently learning Python, CNN.
+- 👀 I’m a Automobile Engineering.
+- 🌱 I’m currently learning Convolutional Neural Network.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @ kishorekanna011@gmail.com
 
